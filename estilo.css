@@ -1,0 +1,25 @@
+*{
+    font-weight: 100;
+    margin: 0;
+    padding:0;
+    text-decoration: none;
+    list-style-type:none;
+    color: white;
+    font-family:'Arial Narrow', Arial, sans-serif;
+}
+nav{
+    background-color: black;
+    height: 50px;
+    width: 100%;
+
+}
+.movil_li{
+    display: none;
+}
+.escritorio_li{
+    display: inline-block;
+    padding: 15px 20px;
+}
+.icons{
+    padding: 10px;
+} 
